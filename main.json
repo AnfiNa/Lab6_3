@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "fs",
+    "coordinates": {
+      "x": 1.0,
+      "y": 2.0
+    },
+    "creationDate": "2024-03-01T13:10:19.1885108+03:00[Europe/Moscow]",
+    "studentsCount": 100,
+    "transferredStudents": 20,
+    "averageMark": 20,
+    "formOfEducation": "DISTANCE_EDUCATION",
+    "groupAdmin": {
+      "name": "jh",
+      "birthday": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "nationality": "USA"
+    }
+  },
+  {
+    "id": 3,
+    "name": "fds",
+    "coordinates": {
+      "x": 1.0,
+      "y": 2.0
+    },
+    "creationDate": "2024-03-01T13:12:22.4011807+03:00[Europe/Moscow]",
+    "studentsCount": 100,
+    "transferredStudents": 20,
+    "averageMark": 20,
+    "formOfEducation": "DISTANCE_EDUCATION",
+    "groupAdmin": {
+      "name": "jh",
+      "birthday": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "nationality": "USA"
+    }
+  },
+  {
+    "id": 4,
+    "name": "werow",
+    "coordinates": {
+      "x": 323.0,
+      "y": 231.0
+    },
+    "creationDate": "2024-05-23T19:14:33.118306+03:00[Europe/Moscow]",
+    "studentsCount": 231,
+    "transferredStudents": 3131,
+    "averageMark": 23,
+    "formOfEducation": "DISTANCE_EDUCATION",
+    "groupAdmin": {
+      "name": "billy",
+      "birthday": "Oct 30, 2040, 12:00:00 AM",
+      "eyeColor": "RED",
+      "hairColor": "RED",
+      "nationality": "USA"
+    }
+  }
+]

@@ -1,0 +1,2 @@
+add {id=5,name=ScriptGroup,coordinatesX=15,coordinatesY=25,studentsCount=30,transferredStudents=24,averageMark=300,formOfEducation=DISTANCE_EDUCATION,adminName=billy,adminNationality=USA,eyeColor=RED}
+

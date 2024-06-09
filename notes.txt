@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Andrey",
+    "coordinates": {
+      "x": 56,
+      "y": 65
+    },
+    "creationDate": "2019-02-22T11:37:58.074816+02:00[Africa/Cairo]",
+    "studentsCount": 100,
+    "transferredStudents": 20,
+    "averageMark": 20,
+    "formOfEducation": "DISTANCE_EDUCATION",
+    "groupAdmin": {
+      "name": "djhgg",
+      "birthday": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "nationality": "USA"
+    }
+  },
+  {
+    "id": 2,
+    "name": "fds",
+    "coordinates": {
+      "x": 1,
+      "y": 2
+    },
+    "creationDate": "2024-03-01T13:09:09.1529522+03:00[Europe/Moscow]",
+    "studentsCount": 100,
+    "transferredStudents": 20,
+    "averageMark": 20,
+    "formOfEducation": "DISTANCE_EDUCATION",
+    "groupAdmin": {
+      "name": "jh",
+      "birthday": null,
+      "eyeColor": null,
+      "hairColor": null,
+      "nationality": "USA"
+    }
+  }
+]
